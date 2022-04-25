@@ -10,6 +10,7 @@
 - 🎓 &nbsp; I like to play games and read books. Want to learn a number of things.
 - 🌐 &nbsp; Searching for work and also is searc of good people.
 
+<img align="center" src="https://discord.c99.nl/widget/theme-3/771376398916517909.png" alt="Discord"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,13 +39,15 @@
   ![CodePen](https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&logoColor=black)
 
 ## My Stats
+
 <p style="display: inline-block">
-<a href="https://github.com/BlackKnight683">
+<a href="https://github.com/Marionaze">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marionaze&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marionaze&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marionaze&show_icons=true&locale=en&layout=compact" alt="Marionaze" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Marionaze&label=Profile%20views&color=0e75b6&style=flat" alt="Marionaze" /> </p>
 
 ##  🤝🏻 &nbsp;Connect with Me
 
