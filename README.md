@@ -10,8 +10,6 @@
 - 🎓 &nbsp; I like to play games and read books. Want to learn a number of things.
 - 🌐 &nbsp; Searching for work and also is searc of good people.
 
-<img align="center" src="https://discord.c99.nl/widget/theme-3/771376398916517909.png" alt="Discord"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 - 👨‍💻 &nbsp;
